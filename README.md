@@ -1,1 +1,1 @@
-This project is deprecated 
+This project is now completely stopped
